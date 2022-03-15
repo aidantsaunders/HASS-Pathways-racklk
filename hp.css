@@ -40,6 +40,19 @@ body {
   border-top-left-radius:0px; 
   border-top-right-radius:0px; 
 }
+
+.searchbar input[type=text] {
+  float: right;
+  padding: 6px;
+  margin-top: 4px;
+  font-size: 17px;
+  border: none;
+  margin-right: 270px;
+  position: absolute;
+  top: 79px;
+  left: 1039px;
+}
+
 .h-button1 {
   border-bottom-left-radius:4px; 
 }
